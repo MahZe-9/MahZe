@@ -1,2 +1,0 @@
-# MahZe
-Personal Repository
